@@ -1,0 +1,50 @@
+header {
+    text-align: center;
+}
+
+.firstinput {
+    text-align: center;
+    margin-left: 60px;
+    margin-right: 60px;
+    background-color: rgb(238, 238, 238);
+}
+
+img {
+    width: 351px;
+    height: 113px;
+}
+
+.firstbox {
+    width: 37%;
+    text-align: center;
+    padding: 10px;
+    background-color: #7EE5DA;
+    margin-left: 60px;
+    margin-right: 60px;
+    float: left;
+    margin-top: 2px;
+    margin-right: 2px;
+}
+
+.secondbox {
+    width: 20%;
+    padding: 1px;
+    margin-top: 2px;
+    margin-left: 2px;
+    text-align: center;
+    float: left;
+    background-color: rgb(112, 204, 194);
+}
+
+.thirdbox {
+    width: 32%;
+    text-align: center;
+    margin-top: 2px;
+    margin-left: 2px;
+    float: left;
+    background-color: rgb(98, 179, 170);
+}
+
+footer {
+    text-align: center;
+}
